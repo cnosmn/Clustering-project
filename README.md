@@ -76,9 +76,9 @@ The project uses a dataset (`Ulke_veriseti.csv`) containing the following featur
 
 ```
 .
-├── az_gelişmiş ülke_seçimi.ipynb    # Main Jupyter notebook
-├── Ulke_veriseti.csv                # Country dataset (not included in repo)
-└── README.md                        # Project documentation
+├── underdeveloped_country_selection.ipynb    # Main Jupyter notebook
+├── nation_data.csv                         # Country dataset (not included in repo)
+└── README.md                                 # Project documentation
 ```
 
 ## Installation
