@@ -24,7 +24,7 @@ This project uses machine learning techniques to classify countries into three c
 
 ## Dataset
 
-The project uses a dataset (`Ulke_veriseti.csv`) containing the following features for each country:
+The project uses a dataset (`nation_data.csv`) containing the following features for each country:
 
 - Country name (Ulke)
 - Child mortality rate (Cocuk_olumu)
@@ -101,7 +101,7 @@ pip install pandas numpy scikit-learn jupyter
 jupyter notebook
 ```
 
-2. Open the `az_gelişmiş ülke_seçimi.ipynb` file in the Jupyter interface
+2. Open the `underdeveloped_country_selection.ipynb` file in the Jupyter interface
 
 3. Run cells sequentially to:
    - Load and clean the dataset
